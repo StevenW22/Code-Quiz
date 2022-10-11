@@ -1,6 +1,8 @@
 * {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     box-sizing: border-box;
+    font-style: bolder, bold;
+    color: white;
 
 }
 
@@ -29,6 +31,8 @@ body {
 }
 footer {
     text-align: center;
+    font-size: larger;
+    color: white;
 }
 
 .question_page {
@@ -57,7 +61,7 @@ li {
 }
 
 .button{
-    background:white;
+    background: black;
     border-radius: 3px;
     padding: 10px;
     cursor: pointer;
@@ -66,13 +70,13 @@ li {
   
 .button:hover{
   
-    background-color:rgb(205, 245, 247);
+    background-color:rgb(255, 0, 157);
   
 }
   
 @media only screen and (max-width: 960px) {
     body {
-      background-image: url(../images/cyber-punk.gif);
+      background-image: url(../images/1022371.webp);
     }
     main {
         margin-left:50px;
