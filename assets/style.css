@@ -2,7 +2,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     box-sizing: border-box;
     font-style: bolder, bold;
-    color: white;
+    color: black;
 
 }
 
@@ -17,7 +17,6 @@ body {
     flex-direction: column;
     min-height: 100vh;
     justify-content: center;
-    background-image: url("../images/gif.gif");
     background-repeat: no-repeat;
     background-position:center; 
     background-size: cover;
@@ -61,7 +60,7 @@ li {
 }
 
 .button{
-    background: black;
+    background: whitesmoke;
     border-radius: 3px;
     padding: 10px;
     cursor: pointer;
