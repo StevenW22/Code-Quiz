@@ -7,7 +7,8 @@
 
 ## Usage
 
-
+https://stevenw22.github.io/Code-Quiz/
+https://github.com/StevenW22/Code-Quiz
 
 ## Mock-Up/Preview
 
