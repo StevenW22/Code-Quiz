@@ -7,8 +7,7 @@
 
 ## Usage
 
-- https://stevenw22.github.io/Code-Quiz/
-- http://127.0.0.1:5500/index.html
+
 
 ## Mock-Up/Preview
 

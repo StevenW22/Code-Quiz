@@ -2,7 +2,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     box-sizing: border-box;
     font-style: bolder, bold;
-    color: black;
+    color: whitesmoke;
 
 }
 
@@ -17,6 +17,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     justify-content: center;
+    background-image: url(../images/gif.gif);
     background-repeat: no-repeat;
     background-position:center; 
     background-size: cover;
@@ -31,7 +32,7 @@ body {
 footer {
     text-align: center;
     font-size: larger;
-    color: white;
+    color: whitesmoke;
 }
 
 .question_page {
@@ -60,7 +61,7 @@ li {
 }
 
 .button{
-    background: whitesmokegit ;
+    background: black ;
     border-radius: 3px;
     padding: 10px;
     cursor: pointer;
